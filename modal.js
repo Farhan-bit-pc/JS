@@ -51,3 +51,6 @@ that event obejct is by defualt passed to the function as the first argument if 
 in the above code we chose the name eve for that event object being passed
 */
     
+console.warn("hello")   //makes it look like a warning
+console.error("hello") //makes it look like an error
+//when u add a breakpoint, u get op for everything in console before that line
